@@ -1,7 +1,7 @@
-# You-Can-Do-It
-Is learning a new language getting you down? Worry not, this Xcode plugin will keep you motivated.
+# Don't Do It
+Learning a new language can get you down. There's so much to remember! Fear not for Chris Lattner is here to warn you when you make a mistake.
 
-This is an Xcode plugin which every three build failures in a row will show you an inspirational Shia LaBeouf reminder why you are doing this.
+This is an Xcode plugin that displays Chris Lattner warning you to not do what you're doing when you run a build. For now Chris will appear if you forcefully unwrap your Swift optionals. 
 
 ![](web/doit.png)
 
